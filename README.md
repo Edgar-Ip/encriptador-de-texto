@@ -23,9 +23,9 @@
 
 #### 📄 Estructura del proyecto
 El proyecto consta de los siguientes archivos:
-📌 index.html - Interfaz de usuario.
-📌 styles.css - Estilos y diseño responsivo.
-📌 app.js - Lógica de encriptación y eventos.
+- 📌 index.html - Interfaz de usuario.
+- 📌 styles.css - Estilos y diseño responsivo.
+- 📌 app.js - Lógica de encriptación y eventos.
 
 
 ### 🚀 Cómo ejecutar el proyecto
