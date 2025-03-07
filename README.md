@@ -23,9 +23,9 @@
 
 #### 📄 Estructura del proyecto
 El proyecto consta de los siguientes archivos:
-- 📌 index.html - Interfaz de usuario.
-- 📌 styles.css - Estilos y diseño responsivo.
-- 📌 app.js - Lógica de encriptación y eventos.
+📌 index.html - Interfaz de usuario.
+📌 styles.css - Estilos y diseño responsivo.
+📌 app.js - Lógica de encriptación y eventos.
 
 
 ### 🚀 Cómo ejecutar el proyecto
@@ -37,5 +37,5 @@ El proyecto consta de los siguientes archivos:
 ![Encriptador](https://github.com/user-attachments/assets/8c87feb0-2797-414b-957f-c1785c497cc4)
 
 
-####### Desarrollado por Edgar Gutiérrez Mejía. 
+###### Desarrollado por Edgar Gutiérrez Mejía. 
 
